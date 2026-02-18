@@ -2,6 +2,10 @@
 
 This example app demonstrates various use cases of the MunchToast package in an e-commerce context.
 
+![MunchToast Demo](../gifs/first.gif)
+
+![Position Selector Demo](../gifs/secound.gif)
+
 ## 🎯 Key Features
 
 ### Toast Position Selector
@@ -76,11 +80,17 @@ Use the segmented button at the top of the home screen to switch between positio
 - **Queue System**: Trigger multiple toasts quickly to see them queue automatically
 - **Animations**: Watch smooth slide and fade animations based on position
 
-## Screenshots
+## Screenshots & Demos
 
 The app includes:
-- **Home Screen**: Grid of toast examples
+- **Home Screen**: Grid of toast examples with interactive position selector
 - **Product Screen**: Simulated product page with add to cart
 - **Cart Screen**: Shopping cart view
+
+### Visual Demos
+
+Check out the GIFs above to see MunchToast in action:
+- **First GIF**: Shows various toast types and animations
+- **Second GIF**: Demonstrates the interactive position selector feature
 
 Enjoy testing MunchToast! 🍞

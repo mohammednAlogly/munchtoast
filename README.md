@@ -5,6 +5,10 @@
 
 A modern, highly customizable toast/snackbar notification widget for Flutter, perfect for e-commerce applications. MunchToast provides beautiful animations, flexible styling, and a queue system for managing multiple notifications.
 
+![MunchToast Demo](https://github.com/mohammednAlogly/munchtoast/raw/main/gifs/first.gif)
+
+![MunchToast Position Selector](https://github.com/mohammednAlogly/munchtoast/raw/main/gifs/secound.gif)
+
 ## ✨ Features
 
 - 🎨 **5 Pre-built Toast Types**: Success, Error, Info, Warning, and Custom
@@ -332,6 +336,8 @@ flutter test
 ## 📱 Example App
 
 Check out the complete example app in the `/example` directory with 9+ e-commerce scenarios and an **interactive position selector**:
+
+![Example App Demo](https://github.com/mohammednAlogly/munchtoast/raw/main/gifs/first.gif)
 
 ### 🎯 Interactive Features
 
